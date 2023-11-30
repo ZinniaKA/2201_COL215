@@ -1,7 +1,7 @@
 # 2201_COL215
 Assignments done under the course COL215: Digital Logic and System Design at IIT Delhi.
 
-The first 3 are software assign,ents and the next 3 hardware assignments.
+The first 3 are software assignments and the next 3 are hardware assignments.
 
 1. **Assignment 1** - finding the legal region of minterms using  Karnaugh maps.
 2. **Assignment 2** - find the maximum legal region for each minterm in the K-map function.
